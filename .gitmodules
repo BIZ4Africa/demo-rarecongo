@@ -1,0 +1,4 @@
+[submodule "BIZ4Africa/odoo-hr"]
+	path = BIZ4Africa/odoo-hr
+	url = git@github.com:BIZ4Africa/odoo-hr.git
+	branch = 15.0
